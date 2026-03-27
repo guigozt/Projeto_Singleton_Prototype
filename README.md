@@ -1,4 +1,4 @@
-# Projeto: Prototype + Singleto
+# Projeto: Prototype + Singleton
 
 ## Descrição
 Este projeto simula um sistema acadêmico simples utilizando dois padrões de projeto: **Prototype** e **Singleton**.
