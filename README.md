@@ -1,4 +1,4 @@
-# Projeto: Prototype + Singleton em JavaScript
+# Projeto: Prototype + Singleto
 
 ## Descrição
 Este projeto simula um sistema acadêmico simples utilizando dois padrões de projeto: **Prototype** e **Singleton**.
@@ -57,4 +57,4 @@ Isso evita duplicação de dados e mantém o controle centralizado.
 2. Execute no terminal:
 
 ```bash
-node app.js
+Projeto_Singleton_Prototype/node app.js
